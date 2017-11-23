@@ -55,3 +55,6 @@ Download
 The current version is tcpproxy-2.0.0-beta15.tar.gz. There is also a Debian package: tcpproxy_2.0.0beta15-1_i386.deb.
 
 http://quietsche-entchen.de/cgi-bin/wiki.cgi/-wiki/proxies/TcpProxy
+
+useage:
+/tcpproxy -b 389 10.21.100.43:389
